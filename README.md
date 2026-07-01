@@ -1,2 +1,2 @@
-# qa-portforlio-project
+# QA-calculator-testing
 portfolio
